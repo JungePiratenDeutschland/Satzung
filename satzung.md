@@ -358,16 +358,6 @@ stimmberechtigten
 Mitglieder.  
 **(12)** Antragsberechtigt ist jede natürliche Person.  
 
-### §10a Abstimmungen außerhalb von Mitgliederversammlungen
-
-**(1)** Neben der Bundesmitgliederversammlung kann ein Beschluss auch per
-Abstimmung
-außerhalb der Bundesmitgliederversammlung getroffen werden.  
-**(2)** Änderungen der Satzung und ihrer Beiordnungen sind hiervon
-ausgenommen.  
-**(3)** Die Verfahrensdetails regelt die Abstimmungsordnung, die nur für solche
-Abstimmungen außerhalb einer Mitgliederversammlung gültig ist.  
-
 ## §11 Aufsichts- und Prüfungsrecht
 **(1)** Bei Bekanntwerden von Umständen und Tatsachen, die geeignet sind, die
 Jungen
