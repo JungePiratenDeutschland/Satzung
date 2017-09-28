@@ -333,13 +333,7 @@ Der Einladung ist die Tagesordnung beizufügen, die vom Vorstand
 aufzustellen ist. Zur
 Gültigkeit eines Beschlusses ist es nicht erforderlich, dass der Gegenstand in
 der
-Einladung bezeichnet wird.  
-**(5)** Ein Antrag kann nur behandelt werden, wenn er mindestens eine Woche
-vor Beginn der Mitgliederversammlung beim Vorstand eingereicht wurde. Der Vorstand
-veröffentlicht die eingereichten Anträge spätestens bis zum fünften Tag vor Beginn der
-Mitgliederversammlung. Der Ort der Veröffentlichung der Anträge ist in der
-Einladung mitzuteilen.
-Änderungsanträge zu bereits eingereichten Anträgen sind hiervon nicht betroffen.
+Einladung bezeichnet wird.
 **(6)** Der Vorstand ist berechtigt und auf Antrag von mindestens der
 Quadratwurzel mal1,337 der ordentlichen Mitglieder verpflichtet, eine außerordentliche
 Mitgliederversammlung einzuberufen.  
