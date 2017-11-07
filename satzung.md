@@ -1,4 +1,4 @@
-# Satzung des Junge Piraten e.V
+# Satzung des Junge Piraten e.V.
 
 ## §1 Name, Sitz und Geschäftsjahr
 **(1)** Der Bundesverband der Jungen Piraten führt den Namen Junge Piraten
