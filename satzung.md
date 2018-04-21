@@ -116,24 +116,60 @@ höheren Ebene gewählt werden. Ausnahmen bedürfen der Zustimmung des Vorstande
 1. der Vorstand,
 2. die Mitgliederversammlung
 
-**(2)** Die Ämter sind ehrenamtlich.  
 
 ## §8 Vorstand
 
 **(1)** Der Vorstand besteht aus:
-
-1. dem\*der Vorsitzenden,
+1. dem Vorsitzenden,
 2. ein bis zwei stellvertretenden Vorsitzenden,
-3. dem\*der Schatzmeister\*in,
+3. dem Schatzmeister,
 4. bis zu drei Beisitzer*innen
 
-Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.   
-**(2)** Die Wahl der Mitglieder des Vorstandes erfolgt durch die Mitgliederversammlung für die Dauer von einem Jahr. Ist eine Neuwahl des Vorstandes vor Ablauf der Amtsperiode nicht erfolgt, bleibt der bisherige Vorstand mit allen Rechten und Pflichten im Amt, bis durch eine Mitgliederversammlung eine Neuwahl des Vorstands erfolgt ist.  
-**(3)** Zur Wahl des\*der Schatzmeister\*s\*in können sich nur volljährige natürliche Personen stellen.  
-**(4)** Mitglieder, welche zum Zeitpunkt der Wahl nach §2 BGB noch nicht die Volljährigkeit erlangt haben und sich zur Wahl des\*der Vorsitzenden oder Stellvertretenden Vorsitzenden sowie Besitzer stellen stellen, haben vor der Wahl bei dem\*der Wahlleiter\*in der Versammlung eine Einverständniserklärung der  erziehungsberechtigten Person(en) abzugeben, in welcher diese ihr Einverständnis mit einer eventuellen Wahl bekunden. Die Einverständniserklärung ist nach der Wahl zu den Vereinsunterlagen zu nehmen, Kopien sind bei berechtigtem Interesse eines\*einer Antragsteller\*s\*in (insb. §108 I S. 1 HS 1 BGB) an diese\*n auszuhändigen.  
-**(5)** Scheidet ein Vorstandsmitglied während der Amtsperiode aus, bleibt der restliche Vorstand im Amt. Scheidet der\*die Vorsitzende oder der\*die Schatzmeister\*in aus, bestellt der Vorstand unverzüglich eine außerordentliche Mitgliederversammlung zurNachwahl der offenen Vorstandsämter ein.  
-**(6)** Reduziert sich durch das Ausscheiden eines Vorstandsmitglieds die Zahl der Vorstandsmitglieder unter drei, ist unverzüglich vom verbleibenden Vorstand eine außerordentliche Mitgliederversammlung einzuberufen. Ist kein Vorstandsmitglied mehr im Amt, beruft der dienstälteste Landesvorstand eine Mitgliederversammlung, die ausschließlich die Wahl eines neuen Vorstandes zum Zweck hat.  
-**(7)** Vorstand im Sinne des §26 BGB sind der\*die Vorsitzende und der\*die Schatzmeister\*in. Sie sind je allein vertretungsberechtigt. Sollte eine dieser Personen zum Zeitpunkt einer Vereinsregistereintragung nicht volljährig sein, ist sie nicht vertretungsberechtigt.  
+Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer.   
+**(2)** Die Wahl der Mitglieder des Vorstandes erfolgt durch die
+Mitgliederversammlung für
+die Dauer von einem Jahr. Ist eine Neuwahl des Vorstandes vor Ablauf der
+Amtsperiode
+nicht erfolgt, bleibt der bisherige Vorstand mit allen Rechten und Pflichten im
+Amt,
+bis durch eine Mitgliederversammlung eine Neuwahl des Vorstands erfolgt ist.  
+**(3)** Zur Wahl des Schatzmeisters können sich nur volljährige natürliche
+Personen
+stellen.  
+**(4)** Mitglieder, welche zum Zeitpunkt der Wahl nach §2 BGB noch nicht die
+Volljährigkeit
+erlangt haben und sich zur Wahl des Vorsitzenden oder Stellvertretenden
+Vorsitzenden sowie Besitzer stellen stellen, haben vor der Wahl bei dem Wahlleiter der
+Versammlung
+eine Einverständniserklärung der erziehungsberechtigten Person(en)
+abzugeben,
+in welcher diese ihr Einverständnis mit einer eventuellen Wahl bekunden. Die
+Einverständniserklärung ist nach der Wahl zu den Vereinsunterlagen zu
+nehmen, Kopien
+sind
+bei berechtigtem Interesse eines Antragstellers (insb. §108 I S. 1 HS
+1 BGB)
+an diesen auszuhändigen.  
+**(5)** Scheidet ein Vorstandsmitglied während der Amtsperiode aus, bleibt der
+restliche
+Vorstand im Amt. Scheidet der Vorsitzende oder der Schatzmeister
+aus, bestellt
+der Vorstand unverzüglich eine außerordentliche Mitgliederversammlung zur Nachwahl
+der offenen Vorstandsämter ein.  
+**(6)** Reduziert sich durch das Ausscheiden eines Vorstandsmitglieds die Zahl
+der
+Vorstandsmitglieder unter drei, ist unverzüglich vom verbleibenden Vorstand
+eine
+außerordentliche Mitgliederversammlung einzuberufen. Ist kein
+Vorstandsmitglied mehr im
+Amt, beruft der dienstälteste Landesvorstand eine Mitgliederversammlung, die
+ausschließlich die Wahl eines neuen Vorstandes zum Zweck hat.  
+**(7)** Vorstand im Sinne des §26 BGB sind der Vorsitzende und der
+Schatzmeister.
+Sie sind je allein vertretungsberechtigt. Sollte eine dieser Personen zum
+Zeitpunkt einer
+Vereinsregistereintragung nicht volljährig sein, ist sie nicht
+vertretungsberechtigt.  
 
 ## §9 Aufgaben des Vorstandes
 
@@ -147,15 +183,27 @@ Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.
 5. Erstellung der Jahres- und Kassenberichts,
 6. Beschlussfassung über die Aufnahme und den Ausschluss von Mitgliedern.
 
-**(3)** Der Vorstand kann, soweit er dies für erforderlich hält, zu seiner Unterstützung einen Beirat berufen.  
-**(4)** Der Vorstand kann sich eine\*n Geschäftsführer\*in bestellen. Näheres dazu regelt eine Geschäftsordnung.  
+**(3)** Der Vorstand kann, soweit er dies für erforderlich hält, zu seiner
+Unterstützung einen
+Beirat berufen.  
+**(4)** Der Vorstand kann sich einen Geschäftsführer bestellen. Näheres dazu
+regelt eine Geschäftsordnung.  
 **(5)** Der Vorstand beruft die Mitgliederversammlung ein.  
-**(6)** Der\*die Vorsitzende eröffnet die Mitgliederversammlung.  
+**(6)** Derdie Vorsitzende eröffnet die Mitgliederversammlung.  
 **(7)** Über jede Sitzung des Vorstandes ist eine Niederschrift anzufertigen.  
-**(8)** Der\*die Schatzmeister\*in verwaltet die Kasse des Bundesverbandes und führt ordnungsgemäß Buch über alle Einnahmen und Ausgaben. Er\*Sie hat der Mitgliederversammlung einen Rechenschaftsbericht zu erstatten.  
-**(9)** Der Vorstand ist befugt, Personen zur Vornahme von Rechtsgeschäften und Rechtshandlungen jeder Art für den Bundesverband zu ermächtigen.  
-**(10)** Der Vorstand ist befugt, Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, von sich aus vornehmen. Derartige Satzungsänderungen müssen den Mitgliedern alsbald in geeigneter Weise zur Kenntnis gegeben werden.  
-**(11)** Die Mitglieder des Vorstandes haben keinen Anspruch auf Vergütung ihrer Tätigkeit.
+**(8)** Derdie Schatzmeister verwaltet die Kasse des Bundesverbandes und
+führt ordnungsgemäß Buch über alle Einnahmen und Ausgaben. ErSie hat der
+Mitgliederversammlung einen Rechenschaftsbericht zu erstatten.  
+**(9)** Der Vorstand ist befugt, Personen zur Vornahme von Rechtsgeschäften
+und Rechtshandlungen jeder Art für den Bundesverband zu ermächtigen.  
+**(10)** Der Vorstand ist befugt, Satzungsänderungen, die von Aufsichts-,
+Gerichts- oder 8Finanzbehörden aus formalen Gründen verlangt werden, von sich aus
+vornehmen.
+Derartige Satzungsänderungen müssen den Mitgliedern alsbald in geeigneter
+Weise zur
+Kenntnis gegeben werden.  
+**(11)** Die Mitglieder des Vorstandes haben keinen Anspruch auf Vergütung
+ihrer Tätigkeit.
 
 ## §10 Mitgliederversammlung
 
@@ -168,24 +216,71 @@ Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.
 5. Beschlussfassung über die gestellten Anträge,
 6. Beschlussfassung über Beschwerden gegen Ausschlüsse aus dem Verband.
 
-**(2)** Die Mitgliederversammlung des Bundesverbandes hat einmal in jedem Kalenderjahr stattzufinden.  
-**(3)** Eine ordnungsgemäß einberufene Mitgliederversammlung ist ab einer Größe von mindestens 3 Mitgliedern beschlussfähig.  
-**(4)** Der Vorstand beruft die Mitgliederversammlung mit einer Frist von 28 Tagen vor dem Termin durch Einladung in Textform und durch Bekanntmachung auf der Homepage ein. Der Einladung ist die Tagesordnung beizufügen, die vom Vorstand aufzustellen ist. Zur Gültigkeit eines Beschlusses ist es nicht erforderlich, dass der Gegenstand in der Einladung bezeichnet wird.
-**(6)** Der Vorstand ist berechtigt und auf Antrag von mindestens der Quadratwurzel mal1,337 der ordentlichen Mitglieder verpflichtet, eine außerordentliche Mitgliederversammlung einzuberufen.  
-**(7)** Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen Verlauf der Verhandlung, ist eine Niederschrift 8anzufertigen. Sie wird von dem\*der Versammlungsleiter\*in, dem\*der Wahlleiter\*in und dem\*der Protokollführer\*in unterschrieben.   
-**(8)** Wahlen haben geheim stattzufinden. Die Mitgliederversammlung kann ein anderes Wahlverfahren im Einzelfall beschließen.  
-**(9)** Satzungsändernde Beschlüsse und Beschlüsse über die Änderung der Beitragsordnung, der Symbolordnung, der Ehrungsordnung oder des Leitbildes bedürfen einer Zweidrittelmehrheit der anwesenden stimmberechtigten Mitglieder.  
-**(10)** Ein Beschluss über die Änderung des Vereinszwecks oder die Auflösung des Bundesverbandes bedarf einer Dreiviertelmehrheit der anwesenden stimmberechtigten Mitglieder.  
+**(2)** Die Mitgliederversammlung des Bundesverbandes hat einmal in jedem
+Kalenderjahr
+stattzufinden.  
+**(3)** Eine ordnungsgemäß einberufene Mitgliederversammlung ist ab einer
+Größe von
+mindestens 3 Mitgliedern beschlussfähig.  
+**(4)** Der Vorstand beruft die Mitgliederversammlung mit einer Frist von 28
+Tagen vor dem
+Termin durch Einladung in Textform und durch Bekanntmachung auf der
+Homepage ein.
+Der Einladung ist die Tagesordnung beizufügen, die vom Vorstand
+aufzustellen ist. Zur
+Gültigkeit eines Beschlusses ist es nicht erforderlich, dass der Gegenstand in
+der
+Einladung bezeichnet wird.
+**(6)** Der Vorstand ist berechtigt und auf Antrag von mindestens der
+Quadratwurzel mal1,337 der ordentlichen Mitglieder verpflichtet, eine außerordentliche
+Mitgliederversammlung einzuberufen.  
+**(7)** Über die Beschlüsse und, soweit zum Verständnis über deren
+Zustandekommen
+erforderlich, auch über den wesentlichen Verlauf der Verhandlung, ist eine
+Niederschrift
+8anzufertigen. Sie wird von dem Versammlungsleiter, dem
+Wahlleiter und
+dem Protokollführer unterschrieben.  
+**(8)** Wahlen haben geheim stattzufinden. Die Mitgliederversammlung kann ein
+anderes
+Wahlverfahren im Einzelfall beschließen.  
+**(9)** Satzungsändernde Beschlüsse und Beschlüsse über die Änderung der
+Beitragsordnung, der Symbolordnung, der Ehrungsordnung oder des
+Leitbildes bedürfen
+einer Zweidrittelmehrheit der anwesenden stimmberechtigten Mitglieder.  
+**(10)** Ein Beschluss über die Änderung des Vereinszwecks oder die Auflösung
+des
+Bundesverbandes bedarf einer Dreiviertelmehrheit der anwesenden
+stimmberechtigten
+Mitglieder.  
 **(12)** Antragsberechtigt ist jede natürliche Person.  
 
 ## §11 Aufsichts- und Prüfungsrecht
+**(1)** Bei Bekanntwerden von Umständen und Tatsachen, die geeignet sind, die
+Jungen
+Piraten zu schädigen, kann der Bundesvorstand bzw. ein von ihm
+bevollmächtigter
+Dritter Einsicht in alle Geschäftsvorgänge nehmen.    
+**(2)** Der Bundesvorstand kann zum Schutz der Rechte der Mitglieder und zum
+Erhalt bzw.
+der Stabilisierung des jeweiligen Landesverbandes auch außerordentliche
+Landesmitgliederversammlungen einberufen. Damit der laufende Betrieb der
+betroffenen
+Landesverbände in ihren jeweiligen Geschäftstätigkeiten aufrecht erhalten
+werden kann,
+übernimmt der Bundesverband bis zur formalen Bestätigung aller
+rechtskräftigen Beschlüssen der außerordentlichen Landesmitgliederversammlungen die volle
+Geschäftstätigkeit des betroffenen Landesverbandes. Der Bundesvorstand
+beruft für
+diesen Zeitraum einen Bevollmächtigten.  
+**(3)** Die Landesverbände erkennen ihrerseits das Recht der Aufsicht und
+Prüfung sowie
+das Recht zur Einberufung außerordentlicher
+Landesmitgliederversammlungen und einer
+durch den Bundesvorstand berufenen Bevollmächtigten an.  
+**(4)** Die Landesverbände nehmen dazu analoge Regelungen in ihre Satzungen
+auf.
 
-**(1)** Bei Bekanntwerden von Umständen und Tatsachen, die geeignet sind, die Jungen Piraten zu schädigen, kann der Bundesvorstand bzw. ein\*e von ihm bevollmächtigte\*r Dritte\*r Einsicht in alle Geschäftsvorgänge nehmen.    
-**(2)** Der Bundesvorstand kann zum Schutz der Rechte der Mitglieder und zum Erhalt bzw. der Stabilisierung des jeweiligen Landesverbandes auch außerordentliche Landesmitgliederversammlungen einberufen. Damit der laufende Betrieb der betroffenen Landesverbände in ihren jeweiligen Geschäftstätigkeiten aufrecht erhalten werden kann, übernimmt der Bundesverband bis zur formalen Bestätigung aller rechtskräftigen Beschlüssen der außerordentlichen Landesmitgliederversammlungen die volle Geschäftstätigkeit des betroffenen Landesverbandes. Der Bundesvorstand beruft für diesen Zeitraum eine\*n Bevollmächtigte\*n.  
-**(3)** Die Landesverbände erkennen ihrerseits das Recht der Aufsicht und Prüfung sowie das Recht zur Einberufung außerordentlicher Landesmitgliederversammlungen und eine\*r durch den Bundesvorstand berufene\*n Bevollmächtigte\*n an.  
-**(4)** Die Landesverbände nehmen dazu analoge Regelungen in ihre Satzungen auf.
-
-## §12 Symbol
 
 **(1)** Über die offiziellen Symbole der Jungen Piraten entscheidet der Bundesvorstand mit 2/3-Mehrheit.
 
@@ -194,13 +289,27 @@ Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.
 **(1)** Ehrungen erfolgen auf Grundlage der von der Bundesmitgliederversammlung beschlossenen Ordnung.  
 
 ## §14 Auflösung
-
-**(1)** Die Auflösung des Bundesverbandes kann nur in einer zu diesem Zweck einberufenen Mitgliederversammlung mit der in §10 festgelegten Stimmenmehrheit beschlossen werden.  
-**(2)** Sofern die Mitgliederversammlung nichts anderes beschließt, sind der\*die Vorsitzende, die stellvertretenden Vorsitzenden und der\*die Schatzmeister\*in gemeinsam vertretungsberechtigte Liquidator\*innen.  
-**(3)** Die vorstehende Regelung gilt entsprechend für den Fall, dass der Bundesverband aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.  
-**(4)** Bei Auflösung des Vereins fällt sein Vermögen an eine juristische Person der öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung
-
-- für die politische Bildungsarbeit im In- und Ausland zur Förderung der demokratischen Willensbildung, des gesellschaftspolitischen Engagements und der Völkerverständigung und/oder,
+**(1)** Die Auflösung des Bundesverbandes kann nur in einer zu diesem Zweck
+einberufenen
+Mitgliederversammlung mit der in §10 festgelegten Stimmenmehrheit
+beschlossen
+werden.  
+**(2)** Sofern die Mitgliederversammlung nichts anderes beschließt, sind der
+Vorsitzende,
+die stellvertretenden Vorsitzenden und der Schatzmeister gemeinsam
+vertretungsberechtigte Liquidatoren.  
+**(3)** Die vorstehende Regelung gilt entsprechend für den Fall, dass der
+Bundesverband aus
+einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.  
+**(4)** Bei Auflösung des Vereins fällt sein Vermögen an eine juristische Person
+der
+öffentlichen Rechts oder eine andere steuerbegünstigte
+Körperschaft zwecks Verwendung
+- für die politische Bildungsarbeit im In- und Ausland zur Förderung der
+demokratischen
+Willensbildung, des gesellschaftspolitischen Engagements und der
+Völkerverständigung
+und/oder,
 - für die Förderung der Kunst und Kultur sowie Wissenschaft und Forschung.Anlage A –
 
 ## Beitragsordnung
@@ -213,11 +322,24 @@ Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.
    2. Fördermitglieder – Einzelbetrag von mindestens 12 €
 
 3. Ehrenmitglieder zahlen keinen Mitgliedsbeitrag.
-2. Der Beitrag ist zum 1. Januar eines jeden Jahres fällig und ist beim Bundesverband zu leisten.
-3. Bei Ein- oder Austritt im Laufe eines Jahres wird der Beitrag in voller Höhe fällig.
-4. Auf begründeten Antrag eines Mitglieds können Schatzmeister*in oder damit beauftragte entscheiden, für diese Person einen individuellen, niedrigeren Mitgliedsbeitrag festzusetzen oder auf den Beitrag zu verzichten. Die Entscheidung besitzt nur Gültigkeit für ein Kalenderjahr.
-5. Der\*die Schatzmeister\*in kann individuell auch eine monatliche Zahlung des Beitrags vereinbaren. §1 Abs. 2 sowie §1 Abs. 3 gilt analog für monatliche Beiträge.
-6. Die Zahlung von größeren Beträgen als der entsprechende Mitgliedsbeitrag ist möglich und erhöht den Beitrag gemäß §3 entsprechend.
+2. Der Beitrag ist zum 1. Januar eines jeden Jahres fällig und ist beim
+Bundesverband
+zu leisten.
+3. Bei Ein- oder Austritt im Laufe eines Jahres wird der Beitrag in voller Höhe
+fällig.
+4. Auf begründeten Antrag eines Mitglieds können Schatzmeister*in oder
+damit
+beauftragte entscheiden, für diese Person einen individuellen, niedrigeren
+Mitgliedsbeitrag festzusetzen oder auf den Beitrag zu verzichten. Die
+Entscheidung
+besitzt nur Gültigkeit für ein Kalenderjahr.
+5. Der Schatzmeister kann individuell auch eine monatliche Zahlung
+des
+Beitrags vereinbaren. §1 Abs. 2 sowie §1 Abs. 3 gilt analog für monatliche
+Beiträge.
+6. Die Zahlung von größeren Beträgen als der entsprechende Mitgliedsbeitrag
+ist
+möglich und erhöht den Beitrag gemäß §3 entsprechend.
 
 ### §2 Verzug und Mahnung
 
@@ -228,6 +350,15 @@ Die Mitgliederversammlung entscheidet über die Anzahl der Beisitzer\*innen.
 5. Ein Beitrag, der 24 Monate nach Fälligkeit noch nicht entrichtet wurde, verfällt.
 
 ### §3 Beitragsverteilung
+1. Die Beiträge von Mitgliedern der Landesverbände sind aufzuteilen in 70 %
+Bundesverbandsanteil und 30 % Landesverbandsanteil.
+2. Die Beiträge von Untergliederungen der Piratenpartei Deutschland können in
+Absprache mit dem Schatzmeister entgegen der obigen Regelungen
+beliebig
+den Gliederungen der Jungen Piraten zugeteilt werden.
+3. Der Bundesvorstand kann für Landesverbände, die nicht selbständig
+rechtsfähig
+sind, abweichende Budgets beschließen.
 
 1. Die Beiträge von Mitgliedern der Landesverbände sind aufzuteilen in 70 % Bundesverbandsanteil und 30 % Landesverbandsanteil.
 2. Die Beiträge von Untergliederungen der Piratenpartei Deutschland können in Absprache mit dem\*r Schatzmeister\*in entgegen der obigen Regelungen beliebig den Gliederungen der Jungen Piraten zugeteilt werden.
